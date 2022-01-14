@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Classfileverifier
+Bundle-SymbolicName: net.haspamelodica.classfileverifier
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: net.haspamelodica.classfileverifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Require-Bundle: org.objectweb.asm;bundle-version="9.2.0"
